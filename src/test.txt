@@ -1,2 +1,4 @@
 master branch
+changes in developer1
+changes in developer2
 changes in developer3
